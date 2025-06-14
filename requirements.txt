@@ -1,0 +1,13 @@
+# 可交互动漫AI项目依赖库
+# Interactable Anime AI Project Dependencies
+# 
+# 安装命令 / Installation command:
+# pip install -r requirements.txt
+#
+# 或在conda环境中 / Or in conda environment:
+# conda activate InterAni
+# pip install -r requirements.txt
+
+# 核心依赖库 / Core dependencies
+pygame==2.6.1          # 图形界面和游戏开发库 / Graphics and game development library
+numpy==2.3.0           # 数值计算库 / Numerical computing library
